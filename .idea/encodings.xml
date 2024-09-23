@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/exercises/W1_spring_beans/1-hello-world/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/exercises/W1_spring_beans/amazing-hello-world/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/exercises/W1_spring_beans/calculator/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/exercises/W1_spring_beans/exercise5/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/exercises/W1_spring_beans/exercise6/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/exercises/W1_spring_beans/exercise7/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/exercises/W1_spring_beans/hello-world/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/exercises/W1_spring_beans/round-up-counter/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/reflections/W1_spring_beans/mysterious-calculator/src/main/java" charset="UTF-8" />
+  </component>
+</project>

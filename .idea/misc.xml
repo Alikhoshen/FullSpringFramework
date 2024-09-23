@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/src/exercises/W1_spring_beans/hello-world/pom.xml" />
+        <option value="$PROJECT_DIR$/src/exercises/W1_spring_beans/1-hello-world/pom.xml" />
+        <option value="$PROJECT_DIR$/src/exercises/W1_spring_beans/amazing-hello-world/pom.xml" />
+        <option value="$PROJECT_DIR$/src/exercises/W1_spring_beans/round-up-counter/pom.xml" />
+        <option value="$PROJECT_DIR$/src/exercises/W1_spring_beans/calculator/pom.xml" />
+        <option value="$PROJECT_DIR$/src/exercises/W1_spring_beans/exercise5/pom.xml" />
+        <option value="$PROJECT_DIR$/src/exercises/W1_spring_beans/exercise6/pom.xml" />
+        <option value="$PROJECT_DIR$/src/exercises/W1_spring_beans/exercise7/pom.xml" />
+        <option value="$PROJECT_DIR$/src/reflections/W1_spring_beans/mysterious-calculator/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/src/exercises/W1_spring_beans/1-hello-world/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="openjdk-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

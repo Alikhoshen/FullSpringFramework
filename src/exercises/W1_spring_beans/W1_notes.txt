@@ -1,0 +1,31 @@
+Injection Best Practices:
+    Use private final when:
+        The field must stay constant after construction.
+        Encapsulation and immutability are important.
+Rounding:
+When using Math.ceil() with multiplication by 100 and dividing by 100, it rounds the number up to the nearest two decimal places.
+
+Example:
+
+    7.891 becomes 7.90 because Math.ceil(7.891 * 100) rounds 789.1 up to 790, and dividing by 100 gives 7.90.
+
+
+in the Config :
+
+     @Bean("")
+     @Qualifier
+     @Primary
+
+This how you print the ApplicationContext:
+
+    public static void main(String[] args) {
+
+    ApplicationContext ctx = SpringApplication.run(Exercise5Application.class, args);
+
+    // Print all beans in the context
+        System.out.println("Beans in ApplicationContext:");
+    String[] beanNames = ctx.getBeanDefinitionNames();
+        for (String beanName : beanNames) {
+        System.out.println(beanName);
+    }
+}

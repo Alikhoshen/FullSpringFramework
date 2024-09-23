@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="exercise4" />
+        <module name="exrevise3" />
+        <module name="exercise2" />
+        <module name="exercise1" />
+        <module name="exercise1 (1)" />
+        <module name="fizzbuzz" />
+        <module name="amazing-goodbye-world" />
+        <module name="goodbye-world" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="1-hello-world" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="1-hello-world" options="-parameters" />
+      <module name="amazing-goodbye-world" options="-parameters" />
+      <module name="exercise1" options="-parameters" />
+      <module name="exercise1 (1)" options="-parameters" />
+      <module name="exercise2" options="-parameters" />
+      <module name="exercise4" options="-parameters" />
+      <module name="exrevise3" options="-parameters" />
+      <module name="fizzbuzz" options="-parameters" />
+      <module name="goodbye-world" options="-parameters" />
+    </option>
+  </component>
+</project>
